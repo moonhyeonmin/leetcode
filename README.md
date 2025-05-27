@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/moonhyeonmin/leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/moonhyeonmin/leetcode/tree/master/0042-trapping-rain-water) |
+| [0561-array-partition](https://github.com/moonhyeonmin/leetcode/tree/master/0561-array-partition) |
 | [0837-most-common-word](https://github.com/moonhyeonmin/leetcode/tree/master/0837-most-common-word) |
 | [0974-reorder-data-in-log-files](https://github.com/moonhyeonmin/leetcode/tree/master/0974-reorder-data-in-log-files) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/moonhyeonmin/leetcode/tree/master/0561-array-partition) |
 | [0974-reorder-data-in-log-files](https://github.com/moonhyeonmin/leetcode/tree/master/0974-reorder-data-in-log-files) |
 ## Counting
 |  |
@@ -51,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/moonhyeonmin/leetcode/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/moonhyeonmin/leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/moonhyeonmin/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
