@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/moonhyeonmin/leetcode/tree/master/0001-two-sum) |
+| [0782-jewels-and-stones](https://github.com/moonhyeonmin/leetcode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/moonhyeonmin/leetcode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/moonhyeonmin/leetcode/tree/master/0837-most-common-word) |
 ## Two Pointers
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/moonhyeonmin/leetcode/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/moonhyeonmin/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/moonhyeonmin/leetcode/tree/master/0344-reverse-string) |
+| [0782-jewels-and-stones](https://github.com/moonhyeonmin/leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/moonhyeonmin/leetcode/tree/master/0837-most-common-word) |
 | [0974-reorder-data-in-log-files](https://github.com/moonhyeonmin/leetcode/tree/master/0974-reorder-data-in-log-files) |
 ## Sorting
