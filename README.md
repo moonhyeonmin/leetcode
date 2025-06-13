@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/moonhyeonmin/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/moonhyeonmin/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/moonhyeonmin/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/moonhyeonmin/leetcode/tree/master/0561-array-partition) |
 | [0739-daily-temperatures](https://github.com/moonhyeonmin/leetcode/tree/master/0739-daily-temperatures) |
 | [0817-design-hashmap](https://github.com/moonhyeonmin/leetcode/tree/master/0817-design-hashmap) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/moonhyeonmin/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/moonhyeonmin/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0782-jewels-and-stones](https://github.com/moonhyeonmin/leetcode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/moonhyeonmin/leetcode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/moonhyeonmin/leetcode/tree/master/0837-most-common-word) |
@@ -49,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/moonhyeonmin/leetcode/tree/master/0561-array-partition) |
 | [0974-reorder-data-in-log-files](https://github.com/moonhyeonmin/leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/moonhyeonmin/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0837-most-common-word](https://github.com/moonhyeonmin/leetcode/tree/master/0837-most-common-word) |
 ## Dynamic Programming
 |  |
@@ -136,11 +140,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/moonhyeonmin/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/moonhyeonmin/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/moonhyeonmin/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/moonhyeonmin/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
@@ -153,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/moonhyeonmin/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Hash Function
 |  |
@@ -162,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/moonhyeonmin/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
