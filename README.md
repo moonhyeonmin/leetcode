@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/moonhyeonmin/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/moonhyeonmin/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/moonhyeonmin/leetcode/tree/master/0125-valid-palindrome) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/moonhyeonmin/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/moonhyeonmin/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/moonhyeonmin/leetcode/tree/master/0344-reverse-string) |
 | [0782-jewels-and-stones](https://github.com/moonhyeonmin/leetcode/tree/master/0782-jewels-and-stones) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/moonhyeonmin/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/moonhyeonmin/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/moonhyeonmin/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0817-design-hashmap](https://github.com/moonhyeonmin/leetcode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/moonhyeonmin/leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/moonhyeonmin/leetcode/tree/master/0860-design-circular-queue) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/moonhyeonmin/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/moonhyeonmin/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/moonhyeonmin/leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/moonhyeonmin/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/moonhyeonmin/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0543-diameter-of-binary-tree](https://github.com/moonhyeonmin/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/moonhyeonmin/leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/moonhyeonmin/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/moonhyeonmin/leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/moonhyeonmin/leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/moonhyeonmin/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/moonhyeonmin/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0744-network-delay-time](https://github.com/moonhyeonmin/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/moonhyeonmin/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/moonhyeonmin/leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/moonhyeonmin/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/moonhyeonmin/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/moonhyeonmin/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/moonhyeonmin/leetcode/tree/master/0687-longest-univalue-path) |
@@ -254,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/moonhyeonmin/leetcode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/moonhyeonmin/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/moonhyeonmin/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/moonhyeonmin/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/moonhyeonmin/leetcode/tree/master/0687-longest-univalue-path) |
