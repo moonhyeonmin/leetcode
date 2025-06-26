@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/moonhyeonmin/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/moonhyeonmin/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/moonhyeonmin/leetcode/tree/master/0046-permutations) |
+| [0056-merge-intervals](https://github.com/moonhyeonmin/leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/moonhyeonmin/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/moonhyeonmin/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/moonhyeonmin/leetcode/tree/master/0200-number-of-islands) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/moonhyeonmin/leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/moonhyeonmin/leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/moonhyeonmin/leetcode/tree/master/0561-array-partition) |
