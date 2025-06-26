@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/moonhyeonmin/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/moonhyeonmin/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/moonhyeonmin/leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/moonhyeonmin/leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/moonhyeonmin/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/moonhyeonmin/leetcode/tree/master/0344-reverse-string) |
 ## String
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/moonhyeonmin/leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/moonhyeonmin/leetcode/tree/master/0561-array-partition) |
 | [0974-reorder-data-in-log-files](https://github.com/moonhyeonmin/leetcode/tree/master/0974-reorder-data-in-log-files) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/moonhyeonmin/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/moonhyeonmin/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/moonhyeonmin/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0148-sort-list](https://github.com/moonhyeonmin/leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/moonhyeonmin/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/moonhyeonmin/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/moonhyeonmin/leetcode/tree/master/0328-odd-even-linked-list) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/moonhyeonmin/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/moonhyeonmin/leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/moonhyeonmin/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/moonhyeonmin/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/moonhyeonmin/leetcode/tree/master/0148-sort-list) |
 ## Geometry
 |  |
 | ------- |
