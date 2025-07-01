@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/moonhyeonmin/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/moonhyeonmin/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/moonhyeonmin/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/moonhyeonmin/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0782-jewels-and-stones](https://github.com/moonhyeonmin/leetcode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/moonhyeonmin/leetcode/tree/master/0817-design-hashmap) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/moonhyeonmin/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/moonhyeonmin/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/moonhyeonmin/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/moonhyeonmin/leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/moonhyeonmin/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/moonhyeonmin/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/moonhyeonmin/leetcode/tree/master/0344-reverse-string) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/moonhyeonmin/leetcode/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/moonhyeonmin/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/moonhyeonmin/leetcode/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/moonhyeonmin/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/moonhyeonmin/leetcode/tree/master/0561-array-partition) |
 | [0974-reorder-data-in-log-files](https://github.com/moonhyeonmin/leetcode/tree/master/0974-reorder-data-in-log-files) |
