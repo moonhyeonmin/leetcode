@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/moonhyeonmin/leetcode/tree/master/0561-array-partition) |
 | [0739-daily-temperatures](https://github.com/moonhyeonmin/leetcode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/moonhyeonmin/leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/moonhyeonmin/leetcode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/moonhyeonmin/leetcode/tree/master/0837-most-common-word) |
 | [0859-design-circular-deque](https://github.com/moonhyeonmin/leetcode/tree/master/0859-design-circular-deque) |
@@ -289,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/moonhyeonmin/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/moonhyeonmin/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0687-longest-univalue-path](https://github.com/moonhyeonmin/leetcode/tree/master/0687-longest-univalue-path) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/moonhyeonmin/leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
