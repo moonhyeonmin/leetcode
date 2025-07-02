@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/moonhyeonmin/leetcode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/moonhyeonmin/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/moonhyeonmin/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/moonhyeonmin/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/moonhyeonmin/leetcode/tree/master/0046-permutations) |
@@ -293,5 +294,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/moonhyeonmin/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/moonhyeonmin/leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
