@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/moonhyeonmin/leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/moonhyeonmin/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/moonhyeonmin/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/moonhyeonmin/leetcode/tree/master/0561-array-partition) |
 | [0739-daily-temperatures](https://github.com/moonhyeonmin/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/moonhyeonmin/leetcode/tree/master/0792-binary-search) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/moonhyeonmin/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/moonhyeonmin/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/moonhyeonmin/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/moonhyeonmin/leetcode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/moonhyeonmin/leetcode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/moonhyeonmin/leetcode/tree/master/0837-most-common-word) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/moonhyeonmin/leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/moonhyeonmin/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/moonhyeonmin/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/moonhyeonmin/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/moonhyeonmin/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/moonhyeonmin/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/moonhyeonmin/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/moonhyeonmin/leetcode/tree/master/0561-array-partition) |
 | [0974-reorder-data-in-log-files](https://github.com/moonhyeonmin/leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/moonhyeonmin/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -295,5 +299,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/moonhyeonmin/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/moonhyeonmin/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/moonhyeonmin/leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
