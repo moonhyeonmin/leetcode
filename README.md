@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/moonhyeonmin/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/moonhyeonmin/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0406-queue-reconstruction-by-height](https://github.com/moonhyeonmin/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0561-array-partition](https://github.com/moonhyeonmin/leetcode/tree/master/0561-array-partition) |
 | [0739-daily-temperatures](https://github.com/moonhyeonmin/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/moonhyeonmin/leetcode/tree/master/0792-binary-search) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/moonhyeonmin/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/moonhyeonmin/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0406-queue-reconstruction-by-height](https://github.com/moonhyeonmin/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 | [0561-array-partition](https://github.com/moonhyeonmin/leetcode/tree/master/0561-array-partition) |
 | [0974-reorder-data-in-log-files](https://github.com/moonhyeonmin/leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/moonhyeonmin/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -327,4 +329,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/moonhyeonmin/leetcode/tree/master/0239-sliding-window-maximum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/moonhyeonmin/leetcode/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/moonhyeonmin/leetcode/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
