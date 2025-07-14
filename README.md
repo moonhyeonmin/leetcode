@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/moonhyeonmin/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/moonhyeonmin/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/moonhyeonmin/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/moonhyeonmin/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/moonhyeonmin/leetcode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/moonhyeonmin/leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/moonhyeonmin/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/moonhyeonmin/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/moonhyeonmin/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/moonhyeonmin/leetcode/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/moonhyeonmin/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/moonhyeonmin/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/moonhyeonmin/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/moonhyeonmin/leetcode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/moonhyeonmin/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/moonhyeonmin/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/moonhyeonmin/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/moonhyeonmin/leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/moonhyeonmin/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/moonhyeonmin/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0837-most-common-word](https://github.com/moonhyeonmin/leetcode/tree/master/0837-most-common-word) |
 ## Dynamic Programming
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/moonhyeonmin/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/moonhyeonmin/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/moonhyeonmin/leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/moonhyeonmin/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/moonhyeonmin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/moonhyeonmin/leetcode/tree/master/1014-k-closest-points-to-origin) |
